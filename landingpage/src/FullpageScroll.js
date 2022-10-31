@@ -41,7 +41,7 @@ const FullpageScroll = () => {
               {/* 카드 앞면  */}
               <div className="front">앞면</div>
               {/* 카드 뒷면 */}
-              <div className="back">뒷면</div>
+              <div className="back">만들어야지</div>
             </div>
           </div>
         </FullpageSection>
