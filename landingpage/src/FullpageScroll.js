@@ -39,9 +39,9 @@ const FullpageScroll = () => {
           <div className="flip">
             <div className="card">
               {/* 카드 앞면  */}
-              <div className="front">앞면</div>
+              <div className="front">클릭 해주세요</div>
               {/* 카드 뒷면 */}
-              <div className="back">뒷면</div>
+              <div className="back">만들어야지</div>
             </div>
           </div>
         </FullpageSection>
